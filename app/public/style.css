@@ -1,0 +1,41 @@
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(124, 212, 20, 1) 35%,
+    rgba(166, 0, 255, 1) 100%
+  );
+}
+
+.jumbotron {
+  background-color: darkgrey;
+  color: black;
+  margin-top: 20px;
+}
+
+.panel {
+    background-color: darkgrey;
+    color: black;
+    opacity: .87;
+}
+
+h1 {
+    font-family: 'Creepster', sans-serif;
+
+}
+
+#submit {
+  background: #a600ff;
+}
+
+#jumbo_h2 {
+  color: white;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #a600ff;
+  border-color: #000000;
+}
+
